@@ -44,7 +44,7 @@
   
   #container {
     padding: 1%;
-    border: 1.5px dotted rgb(247, 195, 195);
+    border: 1.5px solid rgb(255, 255, 255);
     background: rgb(255, 255, 255);
     width: 966px;
     margin: 0 auto;
